@@ -172,7 +172,7 @@ header svg {
 .tentang-box .tools .tools-box img {
     width: 50px;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 @media (max-width: 992px) {
